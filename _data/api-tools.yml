@@ -161,7 +161,7 @@
   testing: "https://img.shields.io/badge/API_Testing-Yes-brightgreen.svg"
   notes: "<br/><em>Note: See <a href='https://portswigger.net/support/using-burp-to-test-a-rest-api'>PortSwigger docs</a> for testing APIs</em>"
 - name: "Caido"
-  link: "https://www.caido.io/
+  link: "https://www.caido.io/"
   from: "Caido Labs"
   license: "https://img.shields.io/badge/license-Commercial-9cf.svg"
   platforms: "https://img.shields.io/badge/Platform-Cross_Platform-inactive.svg"
